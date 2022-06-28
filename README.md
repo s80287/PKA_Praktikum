@@ -7,4 +7,4 @@ Praktikum vom Modul I267 "Programmierung von Komponenten Architektur"
 - Praktikum 5: Spring Boot JPA (Ordner "SpringDemo")
 
 Setting
-Windows -> Preferences -> Maven -> Global settings -> Browse 'settings.xml' -> Apply and save
+Windows -> Preferences -> Maven -> User settings -> Global settings -> Browse 'settings.xml' -> Apply and close
